@@ -33,17 +33,17 @@ AcePrep AI is a professional Android application designed to help students and j
 - PDFBox-Android (Document Generation)
 
 ## APK Download
-[Download AcePrep AI APK](https://github.com/NaseemTechCraft/AcePrep-AI/blob/main/apk/AcePrepAI.apk?raw=true)
+[📥 Click Here to Download AcePrepAI APK](https://github.com/NaseemTechCraft/AcePrep-AI/raw/main/apk/AcePrepAI.apk)
 
 ## Documentation & Privacy Policy
 - [View User Manual](docs/user_manual.pdf)
 - [View Privacy Policy](docs/privacy_policy.pdf)
 
 ## How to Install the APK
-1. Download the APK file from the link above.
-2. Open the APK file on an Android mobile phone.
-3. Allow installation from unknown sources if required.
-4. Install and run the application.
+1. **Download** the APK file from the link above.
+2. **Transfer** it to your Android device (if downloaded on PC).
+3. **Open** the file and **Allow installation from unknown sources** in settings.
+4. **Install** and launch the application.
 
 ## How to Run the Project
 1. Clone or download this project.
@@ -66,5 +66,6 @@ AcePrep AI is a professional Android application designed to help students and j
 BS IT / Semester 6  
 Department of Information Technology  
 University of Layyah  
-GitHub: [NaseemTechCraft](https://github.com/NaseemTechCraft)  
-LinkedIn: [Naseem Hayyat](https://www.linkedin.com/in/mnaseem-hayyat-687716407)
+
+**GitHub:** [NaseemTechCraft](https://github.com/NaseemTechCraft)  
+**LinkedIn:** [Naseem Hayyat](https://www.linkedin.com/in/mnaseem-hayyat-687716407)
